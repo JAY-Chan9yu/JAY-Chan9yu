@@ -1,11 +1,13 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJAY-Chan9yu)](https://hits.seeyoufarm.com)
+<div align=center>
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJAY-Chan9yu)](https://hits.seeyoufarm.com)	
 </div>
   
 # I'm Jay (a.k.a Fitware Jay) 👨🏻‍💻
+<div>
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=JAY-Chan9yu&show_icons=true&icon_color=009C4C&text_color=718096&bg_color=ffffff&hide_title=true" />
-<div align=center>
-
+</div>
+<div>
 Hi! I'm Backend Developer who loves programming and workout! I'm always interested in new technologies and try to study!
 And I enjoy doing fun toy projects, and I want to make a service that can be convenient for our daily life.
 
@@ -14,7 +16,7 @@ And I enjoy doing fun toy projects, and I want to make a service that can be con
 - 🏋️‍♂️  I love workout! 
 - 🚀  No passions, No gains!!
 - 👇 If you want to see my github visual profile, click the icon below.
-
+</div>
 <div style="margin-left=10px">
     &nbsp&nbsp&nbsp&nbsp&nbsp<a href="https://sourcerer.io/jay-chan9yu"><img src="https://sourcerer.io/icons/logo-sharing.svg"height="32px" alt="Sourcerer"></a>
 </div>
