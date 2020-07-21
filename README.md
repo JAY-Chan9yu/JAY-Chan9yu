@@ -1,8 +1,3 @@
-<div align=center>
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJAY-Chan9yu)](https://hits.seeyoufarm.com)	
-</div>
-  
 # I'm Jay (a.k.a Fitware Jay) 👨🏻‍💻
 <div>
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=JAY-Chan9yu&show_icons=true&icon_color=009C4C&text_color=718096&bg_color=ffffff&hide_title=true" />
