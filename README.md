@@ -29,4 +29,5 @@ And I enjoy doing fun toy projects, and <strong>I want to make a service that ca
 </div>
 <div>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=JAY-Chan9yu&show_icons=true&hide_title=true&theme=vue" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JAY-Chan9yu&layout=compact&theme=vue" />
 </div>
