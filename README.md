@@ -10,6 +10,7 @@ Hi! I'm <strong>Backend Developer</strong> who loves programming and workout!
 I'm always interested in new technologies and try to study!  
 And I enjoy doing fun toy projects, and <strong>I want to make a service that can be convenient for our daily life.</strong>  
   
+## This is me! 😁 
 - 🚀  <strong>No passions, No gains!!</strong>
 - 💾  <strong>Backend Developer</strong> (Python, Django) 
 - 🤣  <strong>Sometimes Frontend Developer</strong> (JavaScript)
