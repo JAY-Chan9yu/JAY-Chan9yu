@@ -27,5 +27,5 @@ And I enjoy doing fun toy projects, and <strong>I want to make a service that ca
   [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/changyu.ji.7)](https://www.facebook.com/changyu.ji.7)	
   [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ckj9014@gmail.com)](mailto:ckj9014@gmail.com)
 </div>
-<img src="https://github-readme-stats.vercel.app/api?username=JAY-Chan9yu&show_icons=true&hide_title=true&theme=vue" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JAY-Chan9yu&layout=compact&theme=vue" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=JAY-Chan9yu&show_icons=true&hide_title=true&theme=vue" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JAY-Chan9yu&layout=compact&theme=vue" />
