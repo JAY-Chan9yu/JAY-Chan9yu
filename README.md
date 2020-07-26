@@ -1,4 +1,4 @@
-# I'm Jay (a.k.a Fitware Jay) 👨🏻‍💻
+# Hi👋 I'm Jay (a.k.a Fitware Jay) 👨🏻‍💻
 <strong>[KOR]</strong>  
 안녕하세요! 개발과 운동을 좋아하는 <strong>지찬규</strong> 입니다.  
 저는 새로운 기술에 항상 관심이 많고, 스터디하는 걸 좋아합니다!  
@@ -10,15 +10,12 @@ Hi! I'm <strong>Backend Developer</strong> who loves programming and workout!
 I'm always interested in new technologies and try to study!  
 And I enjoy doing fun toy projects, and <strong>I want to make a service that can be convenient for our daily life.</strong>  
   
+- 🚀  <strong>No passions, No gains!!</strong>
 - 💾  <strong>Backend Developer</strong> (Python, Django) 
 - 🤣  <strong>Sometimes Frontend Developer</strong> (JavaScript)
 - 🏋️‍♂️  <strong>I love workout!</strong>
-- 🚀  <strong>No passions, No gains!!</strong>
-- 👇 If you want to see <strong>my github visual profile</strong>, click the icon below.
-
-<div style="margin-left=10px">
-    &nbsp&nbsp&nbsp&nbsp&nbsp<a href="https://sourcerer.io/jay-chan9yu"><img src="https://sourcerer.io/icons/logo-sharing.svg"height="32px" alt="Sourcerer"></a>
-</div>
+- 📝  <strong>This is my <a href="https://jay-ji.tistory.com/">Technology blog</a></strong>
+- 📊  <strong><a href="https://sourcerer.io/jay-chan9yu">My github visual profile<a></strong>
 
 <div align=center>
 	
