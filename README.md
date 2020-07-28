@@ -1,11 +1,9 @@
 # Hi👋 I'm Jay (a.k.a Fitware Jay) 👨🏻‍💻
-<strong>[KOR]</strong>  
 안녕하세요! 개발과 운동을 좋아하는 <strong>지찬규</strong> 입니다.  
 저는 새로운 기술에 항상 관심이 많고, 스터디하는 걸 좋아합니다!  
 저의 장점은 <strong>'꾸준함'</strong>으로 느릴수는 있어도 목표한 것을 끝까지 이루려고 노력합니다.  
 사람들에게 <strong>즐거움</strong>과 <strong>편리함</strong>을 줄 수 있는 서비스를 만드는게 개발자로서 이루고자 하는 <strong>지향점</strong> 입니다.  
 
-<strong>[ENG]</strong>  
 Hi! I'm <strong>Backend Developer</strong> who loves programming and workout!  
 I'm always interested in new technologies and try to study!  
 And I enjoy doing fun toy projects, and <strong>I want to make a service that can be convenient for our daily life.</strong>  
