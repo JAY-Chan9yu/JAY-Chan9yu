@@ -19,7 +19,6 @@ And I enjoy doing fun toy projects, and <strong>I want to make a service that ca
 <div align=center>
 	
   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:/https://www.linkedin.com/in/%EC%B0%AC%EA%B7%9C-%EC%A7%80-22149a1a7/)](https://www.linkedin.com/in/%EC%B0%AC%EA%B7%9C-%EC%A7%80-22149a1a7/)
-  [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UC4i-2itVHA3txL08nFbaBBQ)](https://www.youtube.com/channel/UC4i-2itVHA3txL08nFbaBBQ)
   [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/changyu.ji.7)](https://www.facebook.com/changyu.ji.7)	
   [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ckj9014@gmail.com)](mailto:ckj9014@gmail.com)
 </div>
