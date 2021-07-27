@@ -14,7 +14,7 @@ And I enjoy doing fun toy projects, and <strong>I want to make a service that ca
 - 🤣  <strong>Sometimes Frontend Developer</strong> (JavaScript)
 - 🏋️‍♂️  <strong>I love workout!</strong>
 - 📝  <strong>This is my <a href="https://jay-ji.tistory.com/">Technology blog</a></strong>
-- 📊  <strong><a href="https://sourcerer.io/jay-chan9yu">My github visual profile<a></strong>
+- 🏆  <strong><a href="https://www.opgc.me/#/users/Jay-Chan9yu">My OPGC github ranking<a></strong>
 
 <div align=center>
 	
