@@ -15,7 +15,10 @@ And I enjoy doing fun toy projects, and <strong>I want to make a service that ca
 - 🏋️‍♂️  <strong>I love workout!</strong>
 - 📝  <strong>This is my <a href="https://jay-ji.tistory.com/">Technology blog</a></strong>
 - 🏆  <strong><a href="https://www.opgc.me/#/users/Jay-Chan9yu">My OPGC github ranking<a></strong>
+- ✏️  <strong>나는 주니어 개발자다 - 공동저자</strong>
 
+<img align="left" width=200 src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FkWHCW%2FbtrinzRHo5L%2FxLbIhIzrcMmGn1GrqnMBG0%2Fimg.png">
+<br>
 <div align=center>
 	
   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:/https://www.linkedin.com/in/%EC%B0%AC%EA%B7%9C-%EC%A7%80-22149a1a7/)](https://www.linkedin.com/in/%EC%B0%AC%EA%B7%9C-%EC%A7%80-22149a1a7/)
