@@ -10,8 +10,8 @@ And I enjoy doing fun toy projects, and <strong>I want to make a service that ca
   
 ## This is me! 😁 
 - 🚀  <strong>No passions, No gains!!</strong>
-- 💾  <strong>Backend Developer</strong> (Python, Django) 
-- 🤣  <strong>Sometimes Frontend Developer</strong> (JavaScript)
+- 💾  <strong>Backend Developer</strong> (Python/Django, FastAPI) 
+- 🤣  <strong>Sometimes Frontend Developer</strong> (JavaScript, vue)
 - 🏋️‍♂️  <strong>I love workout!</strong>
 - 📝  <strong>This is my <a href="https://jay-ji.tistory.com/">Technology blog</a></strong>
 - 🏆  <strong><a href="https://www.opgc.me/#/users/Jay-Chan9yu">My OPGC github ranking<a></strong>
