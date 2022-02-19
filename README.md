@@ -26,3 +26,4 @@ And I enjoy doing fun toy projects, and <strong>I want to make a service that ca
   [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ckj9014@gmail.com)](mailto:ckj9014@gmail.com)
 </div>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=JAY-Chan9yu&show_icons=true&hide_title=true&theme=vue" />
+<img src="https://opgc.5boon.me/githubs/user_profile_tag/?username=Jay-Chan9yu" />
