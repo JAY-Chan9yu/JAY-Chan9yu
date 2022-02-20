@@ -9,6 +9,13 @@ I'm always interested in new technologies and try to study!
 And I enjoy doing fun toy projects, and <strong>I want to make a service that can be convenient for our daily life.</strong>  
   
 ## This is me! 😁 
+<div align=center>
+	
+  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:/https://www.linkedin.com/in/%EC%B0%AC%EA%B7%9C-%EC%A7%80-22149a1a7/)](https://www.linkedin.com/in/%EC%B0%AC%EA%B7%9C-%EC%A7%80-22149a1a7/)
+  [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/changyu.ji.7)](https://www.facebook.com/changyu.ji.7)	
+  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ckj9014@gmail.com)](mailto:ckj9014@gmail.com)
+</div>
+
 <table>
 	<td>
 		<li>🚀  <strong>No passions, No gains!!</strong></li>
@@ -23,13 +30,6 @@ And I enjoy doing fun toy projects, and <strong>I want to make a service that ca
 	<img width=200 src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FkWHCW%2FbtrinzRHo5L%2FxLbIhIzrcMmGn1GrqnMBG0%2Fimg.png">
 	</td>
 </table>
-
-<div align=center>
-	
-  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:/https://www.linkedin.com/in/%EC%B0%AC%EA%B7%9C-%EC%A7%80-22149a1a7/)](https://www.linkedin.com/in/%EC%B0%AC%EA%B7%9C-%EC%A7%80-22149a1a7/)
-  [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/changyu.ji.7)](https://www.facebook.com/changyu.ji.7)	
-  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ckj9014@gmail.com)](mailto:ckj9014@gmail.com)
-</div>
 
 <div>
 <img align="left" src="https://api.opgc.me/githubs/users/JAY-Chan9yu/tag/?border=gradient" />
