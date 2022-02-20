@@ -1,4 +1,4 @@
-# Hi👋 I'm Jay (a.k.a Fitware Jay) 👨🏻‍💻
+## Hi👋 I'm Jay (a.k.a Fitware Jay) 👨🏻‍💻
 안녕하세요! 개발과 운동을 좋아하는 <strong>지찬규</strong> 입니다.  
 저는 새로운 기술에 항상 관심이 많고, 스터디하는 걸 좋아합니다!  
 저의 장점은 <strong>'꾸준함'</strong>으로 느릴수는 있어도 목표한 것을 끝까지 이루려고 노력합니다.  
