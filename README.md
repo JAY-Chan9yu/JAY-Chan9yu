@@ -33,7 +33,7 @@ And I enjoy doing fun toy projects, and <strong>I want to make a service that ca
 
 <div>
 <a href="https://www.opgc.me/#/users/Jay-Chan9yu" target="_blank">
-	<img src="https://api.opgc.me/githubs/users/JAY-Chan9yu/tag/?border=gradient" />
+	<img src="https://api.opgc.me/githubs/users/JAY-Chan9yu/tag/?theme=prism" />
 </a>
 <br>
 <img src="https://github-readme-stats.vercel.app/api?username=JAY-Chan9yu&show_icons=true&hide_title=true&theme=vue" />
