@@ -35,6 +35,8 @@ And I enjoy doing fun toy projects, and <strong>I want to make a service that ca
 <a href="https://www.opgc.me/#/users/Jay-Chan9yu" target="_blank">
 	<img src="https://api.opgc.me/githubs/users/JAY-Chan9yu/tag/?theme=prism" />
 </a>
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=ckj9014)](https://solved.ac/ckj9014)
 <br>
 <img src="https://github-readme-stats.vercel.app/api?username=JAY-Chan9yu&show_icons=true&hide_title=true&theme=vue" />
 </div>
