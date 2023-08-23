@@ -1,12 +1,6 @@
 ## Hi👋 I'm Jay (a.k.a Fitware Jay) 👨🏻‍💻
-안녕하세요! 개발과 운동을 좋아하는 <strong>지찬규</strong> 입니다.  
-저는 새로운 기술에 항상 관심이 많고, 스터디하는 걸 좋아합니다!  
-저의 장점은 <strong>'꾸준함'</strong>으로 느릴수는 있어도 목표한 것을 끝까지 이루려고 노력합니다.  
-사람들에게 <strong>즐거움</strong>과 <strong>편리함</strong>을 줄 수 있는 서비스를 만드는게 개발자로서 이루고자 하는 <strong>지향점</strong> 입니다.  
-
-Hi! I'm <strong>Backend Developer</strong> who loves programming and workout!  
-I'm always interested in new technologies and try to study!  
-And I enjoy doing fun toy projects, and <strong>I want to make a service that can be convenient for our daily life.</strong>  
+<strong>"함께 자라기🌳"</strong>를 추구하며 좋은 동료로서 함께하고 싶은 개발자 지찬규입니다 😃 <br>
+"어떻게 하면 다같이 즐겁게 성장할 수 있을까?"를 고민합니다!
   
 ## This is me! 😁 
 <div align=center>
@@ -21,13 +15,12 @@ And I enjoy doing fun toy projects, and <strong>I want to make a service that ca
 		<li>🚀  <strong>No passions, No gains!!</strong></li>
 		<li>💾  <strong>Backend Developer</strong> (Python/Django, FastAPI) </li>
 	    	<li>🤣  <strong>Sometimes Frontend Developer</strong> (JavaScript, vue)</li>
-		<li>🏋️‍♂️  <strong>I love workout!</strong></li>
 		<li>📝  <strong>This is my <a href="https://jay-ji.tistory.com/">Technology blog</a></strong></li>
 		<li>🏆  <strong><a href="https://www.opgc.me/#/users/Jay-Chan9yu">My OPGC github ranking<a></strong></li>
 		<li>✏️  <strong><a href="https://jay-ji.tistory.com/87">나는 주니어 개발자다</a> - 공동저자</strong></li>
 	</td>
 	<td>
-	<img width=200 src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FkWHCW%2FbtrinzRHo5L%2FxLbIhIzrcMmGn1GrqnMBG0%2Fimg.png">
+	<img width=120 src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FkWHCW%2FbtrinzRHo5L%2FxLbIhIzrcMmGn1GrqnMBG0%2Fimg.png">
 	</td>
 </table>
 
